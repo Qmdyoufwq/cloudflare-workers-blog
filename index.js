@@ -1,13 +1,13 @@
 'use strict';
 const OPT = {
     "user" : "admin", //后台密码
-    "password" : "yourSelfPwd", //后台密码
-    "siteDomain" : "blog.gezhong.vip",// 域名(不带https 也不带/)
+    "password" : "123456", //后台密码
+    "siteDomain" : "8611.tk",// 域名(不带https 也不带/)
     "siteName" : "CF workers blog",//博客名称
     "siteDescription":"A Blog Powered By Cloudflare Workers and KV",//博客描述
     "keyWords":"cloudflare,KV,workers,blog",//关键字
-    "cacheZoneId":"cc868e8edce4027ad4a735741111111",//清理缓存用 cf区域 ID
-    "cacheToken":"LNxRWH-MPMIGnp8qhyT8FUsjDRN6tdOnmaaaaaaa",//清理缓存用 cf API token
+    "543432c023e5d69674e4f41c80a7cacd",//清理缓存用 cf区域 ID
+    "cacheToken":"3OTboNq1HO3zt5v4cUsOImGDi-qp2V0l75oClRnm",//清理缓存用 cf API token
 	
     "pageSize" : 5,//每页文章数
     "recentlySize" : 6,//最近文章数
